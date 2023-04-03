@@ -8,8 +8,8 @@ def multiply(a, b):
     return a * b
 
 # Get user input
-num1 = 400
-num2 = 900
+num1 = 40
+num2 = 90
 
 # Perform calculations
 result_add = add(num1, num2)
